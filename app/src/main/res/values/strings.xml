@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Account</string>
+    <string name="password">password</string>
+    <string name="name">Name</string>
+
+    <string name="title_activity_splash">Welcome</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
